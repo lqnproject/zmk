@@ -9,7 +9,7 @@
 #- settings_reset
 #- tidbit
 include:
-- board: bdn9_rev2
+#- board: bdn9_rev2
 - board: nice60
 #- board: seeeduino_xiao_ble
 #  shield: hummingbird
