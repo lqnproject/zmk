@@ -11,7 +11,7 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 
 / {
-	model = "nice!60";
+	model = "nice!160";
 	compatible = "nice,60";
 
 	chosen {
