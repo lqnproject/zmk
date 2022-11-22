@@ -1,13 +1,13 @@
-board:
-- nice_nano_v2
-- nrfmicro_13
-- proton_c
-shield:
-- corne_left
-- corne_right
-- romac
-- settings_reset
-- tidbit
+#board:
+#- nice_nano_v2
+#- nrfmicro_13
+#- proton_c
+#shield:
+#- corne_left
+#- corne_right
+#- romac
+#- settings_reset
+#- tidbit
 include:
 #- board: bdn9_rev2
 - board: nice60
