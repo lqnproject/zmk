@@ -4,7 +4,7 @@
 if BOARD_NICE60
 
 config ZMK_KEYBOARD_NAME
-	default "nice!160"
+	default "nice!LEE"
 
 if USB_DEVICE_STACK
 
